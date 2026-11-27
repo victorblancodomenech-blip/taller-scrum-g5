@@ -17,4 +17,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Calendari](pantalles/04-calendari.md)
 -->
 - [Pròxima activitat](pantalles/04-proxima-activitat.md)
-
+- [Perfil](pantalles/03-perfil.md)
